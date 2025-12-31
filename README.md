@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Backend Software Engineer based in **Jakarta, Indonesia 🇮🇩**, working closely with regional teams across **Singapore**.
 I specialize in designing and building **scalable backend systems**, with a strong focus on **microservices architecture**, **event-driven systems**, and **observability-first engineering**.
@@ -26,36 +26,21 @@ My work emphasizes **clean architecture**, **maintainability**, and **operationa
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
+## Tech Stack
 
 ![Languages](https://skillicons.dev/icons?i=java,go,python,js,cpp\&theme=dark)
-
-### Backend & Runtime
-
 ![Backend](https://skillicons.dev/icons?i=spring,hibernate,nodejs\&theme=dark)
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,kafka\&theme=dark)
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,git\&theme=dark)
+![Observability](https://skillicons.dev/icons?i=grafana,elasticsearch\&theme=dark)
 
 **Also worked with:**
 Gin (Go), Apache Spark, Swagger / OpenAPI
 
-### Databases & Messaging
-
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,kafka\&theme=dark)
-
-### Cloud & DevOps
-
-![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,git\&theme=dark)
-
-### Observability
-
-![Observability](https://skillicons.dev/icons?i=grafana,elasticsearch\&theme=dark)
-
 **Tracing & Logging:**
 Jaeger · Tempo · Zipkin · Loki · ELK Stack
 
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miftakhulaziz&theme=github_dark"
@@ -74,35 +59,11 @@ width="49%"
 
 ---
 
-## 🎯 Current Focus
-
-```yaml
-focus:
-  - Event-Driven Microservices
-  - Distributed Tracing & Observability
-  - Spring Boot & WebFlux
-  - High-throughput Messaging (Kafka)
-learning:
-  - Advanced Go Patterns
-  - Kubernetes
-  - System Design at Scale
-```
-
----
-
-## 📬 Contact
+## Contact
 
 * LinkedIn: [https://linkedin.com/in/miftakhullaziz](https://linkedin.com/in/miftakhullaziz)
 * Portfolio: [https://miftakhulaziz.github.io](https://miftakhulaziz.github.io)
-* Email: [miftakhulaziz.dev@gmail.com](mailto:miftakhulaziz.dev@gmail.com)
-
----
-
-<div align="center">
-
-⭐️ *Backend systems should be observable, scalable, and boring to operate.*
-
-</div>
+* Email: [miftakhullaziz@gmail.com](mailto:miftakhulaziz.dev@gmail.com)
 
 
 <!-- <div align="center">
