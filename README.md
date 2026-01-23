@@ -42,18 +42,18 @@ Jaeger · Tempo · Zipkin · Loki · ELK Stack
 ## GitHub Stats
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aizacoders&theme=dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aizacoders&theme=github_dark"
 width="100%"
 />
 <br/>
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aizacoders&theme=dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aizacoders&theme=github_dark"
 width="33%"
 /> <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aizacoders&theme=dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aizacoders&theme=github_dark"
 width="33%"
 /> <img 
-src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aizacoders&theme=dark"
+src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aizacoders&theme=github_dark"
 width="33%"
 />
 <br clear="both"/>
