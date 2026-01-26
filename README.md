@@ -1,43 +1,31 @@
-<div align="left">
+# Hi, I'm Miftakhul Aziz
 
-# Hi I'm **Miftakhul Aziz**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&pause=1200&color=6DA4FF&left=true&vCenter=true&width=820&lines=Software+Engineer;Backend+Engineer;Microservices+%26+Event-Driven+Systems;Clean+Architecture+Advocate)](https://github.com/aizacoders)
 
-**Software Engineer · Scalable Systems · Distributed Architecture**
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=6DA4FF&left=true&vCenter=true&width=520&lines=Software+Engineer;Backend+Engineer;Microservices+%26+Event-Driven+Systems;Clean+Architecture+Advocate" />
+### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miftakhullaziz/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aizacoders)
 
-<br/>
+---
 
-###### Lets connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=default&logo=Linkedin)](https://www.linkedin.com/in/miftakhullaziz/)
-[![GitHub followers](https://img.shields.io/github/followers/aizacoders?style=default&logo=github)](https://github.com/aizacoders?tab=followers)
+### About Me
+Software Engineer based in **Indonesia 🇮🇩**.  
+I specialize in designing and building **scalable backend systems**, with a focus on **microservices**, **event-driven systems**, and **observability**.  
 
-</div>
+I enjoy tackling complex problems like **system design**, **distributed transactions**, **high-throughput messaging**, and **production-grade APIs**. My approach emphasizes **clean architecture**, **maintainability**, and **reliability**.
 
+---
 
-## Fun Fact
-
-Software Engineer based in **Indonesia 🇮🇩**.
-I specialize in designing and building **scalable backend systems**, with a strong focus on **microservices architecture**, **event-driven systems**, and **observability-first engineering**.
-
-I enjoy working on complex backend problems such as **system design**, **distributed transactions**, **high-throughput messaging**, and **production-grade API platforms**.
-My work emphasizes **clean architecture**, **maintainability**, and **operational reliability** in real-world systems.
-
-
-## Tech Stack
-
-![Languages](https://skillicons.dev/icons?i=java,go,python,ts,js,cpp\&theme=dark)
-![Backend](https://skillicons.dev/icons?i=spring,hibernate,nodejs\&theme=dark)
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,kafka\&theme=dark)
-![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,git\&theme=dark)
-![Observability](https://skillicons.dev/icons?i=grafana,elasticsearch\&theme=dark)
-![Frontend](https://skillicons.dev/icons?i=nuxt,vue,next,react\&theme=dark)
-
-**Also worked with:**
-Gin (Go), Apache Spark, Swagger / OpenAPI
-
-**Tracing & Logging:**
-Jaeger · Tempo · Zipkin · Loki · ELK Stack
+### Tech Stack
+- Languages: **Java**, **Go**, **Python**, **TypeScript**, **JavaScript**, **C++**
+- Backend & Frameworks: **Spring**, **Hibernate**, **Node.js**, **Gin**
+- Databases & Messaging: **PostgreSQL**, **MySQL**, **MongoDB**, **Redis**, **Elasticsearch**, **Kafka**
+- Cloud & Tools: **AWS**, **GCP**, **Docker**, **Git**
+- Observability: **Grafana**, **Elasticsearch**
+- Tracing & Logging: **Jaeger**, **Tempo**, **Zipkin**, **Loki**, **ELK Stack**
+- Frontend: **Nuxt**, **Vue**, **Next.js**, **React**
+- Also worked with: **Apache Spark**, **Swagger/OpenAPI**
 
 ## GitHub Stats
 
